@@ -1,2 +1,0 @@
-# aronox
-aronox template
