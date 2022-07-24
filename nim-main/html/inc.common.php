@@ -8,7 +8,7 @@ $theme="hor-skin/hor-skin1.css";
 $lib_url="http://localhost:8080/api/v0/";
 $lib_token="8997ec42d0c502a67cce02e2be64f333";
 
-$company="Matrik, PT";
+$company="ESTRADA, PT";
 $about=array(base64_encode("Network Information & Monitoring System"), base64_encode("Licensed to $company"));
 
 /*common values*/
