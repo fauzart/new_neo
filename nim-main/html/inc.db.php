@@ -1,13 +1,13 @@
 <?php
 error_reporting(E_ERROR);
-$production = false;
+$production = true;
 
-function connect($prod=false){
+function connect($prod=true){
 //prod
 $env['prod']['server'] = 'localhost';
 $env['prod']['db'] = 'nimdb';
 $env['prod']['usr'] = 'nimnms';
-$env['prod']['pwd'] = 'Bismillah10x';
+$env['prod']['pwd'] = 'Bismillah3x';
 //dev
 $env['dev']['server'] = 'localhost';
 $env['dev']['db'] = 'nms';
