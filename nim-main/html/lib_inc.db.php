@@ -1,11 +1,11 @@
 <?php
 error_reporting(E_ERROR);
-$production = false;
+$production = true;
 
-function connect($prod=false){
+function connect($prod=true){
 //prod
 $env['prod']['server'] = 'localhost';
-$env['prod']['db'] = 'nmsdb';
+$env['prod']['db'] = 'libdb';
 $env['prod']['usr'] = 'libnms';
 $env['prod']['pwd'] = 'Bismillah3x';
 //dev
