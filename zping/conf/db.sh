@@ -2,9 +2,9 @@
 # db connections
 
 myusr="nimnms"
-mypass="Bismillah10x"
+mypass="Bismillah3x"
 mydb="nimdb"
 
 libusr="libnms"
 libpass="Bismillah3x"
-libdb="nmsdb"
+libdb="libdb"
